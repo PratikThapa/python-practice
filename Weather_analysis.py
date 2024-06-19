@@ -12,6 +12,7 @@ def Average_temprature(temprature):
     if not temprature:
         return "Error!! The temprature cannot be empty."
     return sum(temprature) / len(temprature)
+#this is comment
 
 
 #Function to find the maximum temprature
